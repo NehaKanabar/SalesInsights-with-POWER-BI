@@ -12,8 +12,9 @@
     
    <div class="image-container">
       <p>📷 Power BI Dashboard Screenshot:</p>
-      <img src="path_to_your_screenshot_image" alt="Power BI Project Screenshot">
-    </div>
+      <img src="https://github.com/NehaKanabar/SalesInsights-with-POWER-BI/assets/130577117/70de68a1-5d5a-44ab-a9e7-e6311ddb1d57">
+
+  </div>
 
    <h2>📈 Data Analysis</h2>
     <p>The data includes revenue trends, sales quantity by markets, and revenue breakdown by market. It also provides a comprehensive overview of the revenue performance over the years, highlighting the fluctuations and key contributors to revenue.</p>
